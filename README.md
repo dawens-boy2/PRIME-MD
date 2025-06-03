@@ -45,7 +45,7 @@
 
 
 ### 🔑 Get PAIR CODE
-[![PRIME MD PAIR](https://img.shields.io/badge/PRIME%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://zarya-1.onrender.com)
+[![PRIME MD PAIR](https://img.shields.io/badge/PRIME%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://zarya-1.onrender.com/)
 
 
 ---
