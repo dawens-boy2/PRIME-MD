@@ -21,7 +21,7 @@ async (conn, mek, m, { from, reply }) => {
 
         const response = await fetch(`https://api.github.com/repos/${username}/${repoName}`, {
             headers: {
-                'User-Agent': 'MAFIA-MD'
+                'User-Agent': 'PRIME-MD'
             }
         });
 
@@ -36,7 +36,7 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         const message = `┌───────────────────┐
-│  🎭 MAFIA-MD 𝗥𝗘𝗣𝗢  🎭  
+│  🎭 PRIME-MD 𝗥𝗘𝗣𝗢  🎭  
 ├──────────────────────
 │ • Name: ${repoData.name}
 │ • Owner: ${repoData.owner.login}
